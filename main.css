@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+div img{
+    width: 100px;
+}
+img{
+    width: 20px;
+  
+}
+p{
+    margin-left: -2px;
+}
+ div img{
+    right: 500px;
+}
